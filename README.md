@@ -1,5 +1,5 @@
 ### Domain
-flaky-exchange.surge.sh
+https://flaky-exchange.surge.sh
 
 ### Contract Address
 https://rinkeby.etherscan.io/address/0xfF7054f18ee3DBAC43AC7E24a2877133bDf75Fa2#code
