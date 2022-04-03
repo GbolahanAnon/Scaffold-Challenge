@@ -1,6 +1,8 @@
-Live Demo: http://uninterested-boy.surge.sh/
+### Domain
 
-contract: https://rinkeby.etherscan.io/address/0xdC6652C8A6820475481dcB73D66496522d58194d#code
+
+### Contract Address
+
 
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
