@@ -1,6 +1,8 @@
-Live Demo: http://acoustic-touch.surge.sh/
+### Domain
+flaky-exchange.surge.sh
 
-contract: https://rinkeby.etherscan.io/address/0xF793786a32B247e4d721861ee059662F22917c01#code
+### Contract Address
+https://rinkeby.etherscan.io/address/0xfF7054f18ee3DBAC43AC7E24a2877133bDf75Fa2#code
 
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
