@@ -1,5 +1,5 @@
 ### Domain
-https://guttural-wing.surge.sh/
+https://guttural-wing.surge.sh
 
 ### Contract Address
 https://rinkeby.etherscan.io/address/0x7295c198596Ab9cb039895bc8F36FFFbA15F2F74#code
